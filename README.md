@@ -1,4 +1,5 @@
-# memory_game solidity + truffle + web3.js
+# memory-game-erc-721
+## solidity + truffle + web3.js
 App runs on a ganache blockchain which provides some accounts (with 100 ether each) which we can connect to MetaMask via private key
 
 ## Basic set up
